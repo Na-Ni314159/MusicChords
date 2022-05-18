@@ -1,5 +1,10 @@
 @charset 'utf-8';
 
 * {
-    font-size: 50px;
+    font-size: 36px;
+}
+
+.note {
+    font-size: 24px;
+    color: red;
 }
